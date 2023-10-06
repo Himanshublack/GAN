@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 28 15:00:50 2023
 
-@author: USER
+@author: Himanshu singh
 """
 
 # Deep Convolutional GANs
